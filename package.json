@@ -1,0 +1,19 @@
+{
+  "name": "workshop-01-building-your-first-web-app-with-react-webpack-and-babel",
+  "version": "1.0.0",
+  "description": "\"Building your first Web App with React JS, Webpack and Babel\" workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/React-Delhi-NCR/workshop-01-building-your-first-web-app-with-react-webpack-and-babel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/React-Delhi-NCR/workshop-01-building-your-first-web-app-with-react-webpack-and-babel/issues"
+  },
+  "homepage": "https://github.com/React-Delhi-NCR/workshop-01-building-your-first-web-app-with-react-webpack-and-babel#readme"
+}
