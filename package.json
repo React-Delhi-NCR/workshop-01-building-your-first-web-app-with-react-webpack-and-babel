@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/React-Delhi-NCR/workshop-01-building-your-first-web-app-with-react-webpack-and-babel/issues"
   },
-  "homepage": "https://github.com/React-Delhi-NCR/workshop-01-building-your-first-web-app-with-react-webpack-and-babel#readme"
+  "homepage": "https://github.com/React-Delhi-NCR/workshop-01-building-your-first-web-app-with-react-webpack-and-babel#readme",
+  "dependencies": {
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5",
+    "react-scripts": "^2.1.8"
+  }
 }
